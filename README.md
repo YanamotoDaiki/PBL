@@ -5,11 +5,9 @@
 
 ## データの準備
 データのダウンロード
+    wget https://www.kecl.ntt.co.jp/icl/lirg/jparacrawl/release/2.0/bitext/en-ja.tar.gz
+    a
 
-
-`wget https://www.kecl.ntt.co.jp/icl/lirg/jparacrawl/release/2.0/bitext/en-ja.tar.gz
-
-a`
 
 
 
