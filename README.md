@@ -7,7 +7,7 @@
 データのダウンロード
 
     wget https://www.kecl.ntt.co.jp/icl/lirg/jparacrawl/release/3.0/bitext/en-ja.tar.gz
-    tar -zxvf https://www.kecl.ntt.co.jp/icl/lirg/jparacrawl/release/3.0/bitext/en-ja.tar.gz
+    tar -zxvf en-ja.tar.gz
 
 
 
